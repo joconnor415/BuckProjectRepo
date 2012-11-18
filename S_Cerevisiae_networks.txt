@@ -1,0 +1,298 @@
+Hillenmeyer-Giaever-2008 A
+Hillenmeyer-Giaever-2008 B
+Lee-Marcotte-2007 Co-citation
+I2D-Behrends-Harper-2010-AUTOPHAGY-HIGH-Human2Yeast
+I2D-Behrends-Harper-2010-AUTOPHAGY-LOW-Human2Yeast
+I2D-BIND-Human2Yeast
+I2D-BIND-Fly2Yeast
+I2D-BIND-Mouse2Yeast
+I2D-BIND-Rat2Yeast
+I2D-BIND-Worm2Yeast
+I2D-BioGRID-Human2Yeast
+I2D-BioGRID-Fly2Yeast
+I2D-BioGRID-Mouse2Yeast
+I2D-BioGRID-Rat2Yeast
+I2D-BioGRID-Worm2Yeast
+I2D-Li-Vidal-2004-CE-DATA-Worm2Yeast
+I2D-Li-Vidal-2004-CORE-1-Worm2Yeast
+I2D-Li-Vidal-2004-CORE-2-Worm2Yeast
+I2D-Stanyon-Finley-2004-CellCycle-Fly2Yeast
+I2D-Formstecher-Daviet-2005-Embryo-Fly2Yeast
+I2D-Formstecher-Daviet-2005-Head-Fly2Yeast
+I2D-Giot-Rothbert-2003-High-Fly2Yeast
+I2D-Giot-Rothbert-2003-Low-Fly2Yeast
+I2D-HPRD-Human2Yeast
+I2D-Manual-Rat2Yeast
+I2D-INNATEDB-Human2Yeast
+I2D-INNATEDB-Mouse2Yeast
+I2D-IntAct-Human2Yeast
+I2D-IntAct-Fly2Yeast
+I2D-IntAct-Mouse2Yeast
+I2D-IntAct-Rat2Yeast
+I2D-IntAct-Worm2Yeast
+I2D-Li-Vidal-2004-interolog-Worm2Yeast
+I2D-Li-Vidal-2004-literature-Worm2Yeast
+I2D-MGI-Mouse2Yeast
+I2D-Miller-Attisano-2009-Human2Yeast
+I2D-MINT-Human2Yeast
+I2D-MINT-Fly2Yeast
+I2D-MINT-Mouse2Yeast
+I2D-MINT-Rat2Yeast
+I2D-MINT-Worm2Yeast
+I2D-Li-Vidal-2004-non-core-Worm2Yeast
+I2D-Ingham-Pawson-2005-Human2Yeast
+I2D-Wu-Li-2007-Human2Yeast
+I2D-Bandyopadhyay-Ideker-2010-MAPK-HIGH-Human2Yeast
+I2D-Bandyopadhyay-Ideker-2010-MAPK-LOW-Human2Yeast
+I2D-Stelzl-Wanker-2005-High-Human2Yeast
+I2D-Tewari-Vidal-2004-TGFb-Worm2Yeast
+I2D-Rual-Vidal-2004-core-Human2Yeast
+I2D-Rual-Vidal-2004-non-core-Human2Yeast
+Stuart-Kim-2003
+Myers-Troyanskaya-2005
+Lee-Marcotte-2007 Gene neighbourhoods
+Lee-Marcotte-2007 Co-inheritance
+Lee-Marcotte-2007 Protein interactions inferred from complexes
+Lee-Marcotte-2007 YeastNet
+BIOGRID-SMALL-SCALE-STUDIES
+Gavin-Superti-Furga-2002 A
+Ho-Tyers-2002 A
+Peng-Gygi-2003 A
+Miller-Fields-2005 A
+Ptacek-Snyder-2005 A
+Gavin-Superti-Furga-2006 A
+Krogan-Greenblatt-2006 A
+Collins-Krogan-2007 A
+Tarassov-Michnick-2008 A
+Yu-Vidal-2008 A
+Guerrero-Huang-2008 A
+Gong-Houry-2009 A
+Breitkreutz-Tyers-2010 A
+Ito-Sakaki-2000
+Uetz-Rothberg-2000
+Fromont-Racine-Legrain-2000
+Newman-Kim-2000
+Ito-Sakaki-2001
+Allen-Rexach-2001
+Drees-Drubin-2001
+Tong-Cesareni-2002
+Tong-Boone-2001
+Gavin-Superti-Furga-2002 B
+Ho-Tyers-2002 B
+Sanders-Weil-2002
+Grandi-Hurt-2002
+Peng-Gygi-2003 B
+Ubersax-Morgan-2003
+Graumann-Deshaies-2004
+Hazbun-Davis-2003
+Landgraf-Cesareni-2004
+Krogan-Greenblatt-2004
+Tong-Boone-2004
+Panse-Hurt-2004
+Wohlschlegel-Yates-2004
+Hannich-Hochstrasser-2005
+Zhao-Houry-2005
+Millson-Piper-2005
+Miller-Fields-2005 B
+Ptacek-Snyder-2005 B
+Gavin-Superti-Furga-2006 B
+Frazier-Rehling-2006
+Krogan-Greenblatt-2006 B
+Hesselberth-Fields-2006
+Collins-Krogan-2007 B
+Aronova-Powers-2007
+Wong-Hazbun-2007
+Oeffinger-Rout-2007
+Decourty-Jacquier-2008
+Tarassov-Michnick-2008 B
+Dekker-Willison-2008
+Yu-Vidal-2008 B
+Guerrero-Huang-2008 B
+Lambert-Figeys-2009
+Gong-Houry-2009 B
+Tonikian-Boone-2009
+Kaake-Huang-2010
+Breitkreutz-Tyers-2010 B
+Ossareh-Nazari-Dargemont-2010
+Mnller-Fox-2010
+Fromont-Racine-Legrain-1997
+IREF-BIND
+IREF-BIND-TRANSLATION
+IREF-DIP
+IREF-GRID
+IREF-INTACT
+IREF-MINT
+IREF-MPACT
+IREF-SMALL-SCALE-STUDIES
+Ito-Sakaki-core-2001
+Lee-Marcotte-2007 Protein interactions
+Lee-Marcotte-2007 Protein complexes
+Lee-Marcotte-2007 Y2H
+Lee-Marcotte-2007 Co-expression
+Morillo-Huesca-Prado-2010
+Knijnenburg-Wessels-2009
+Johansson-Jacobson-2007
+Singh-Helm-2005 B
+Pizarro-Agosin-2008
+Caba-Aubrecht-2005
+Heer-Sauer-2009
+Busti-Vanoni-2012
+Amit-Horovitz-2010
+Singh-Helm-2005 A
+Chin-Li-2012 B
+Shalem-Pilpel-2008 C
+Cipollina-de Winde-2008 B
+Daran-Lapujade-Pronk-2004
+Chua-Hughes-2006-deletion
+Wade-Auble-2009
+Takagi-Kornberg-2005
+Yu-Morse-2006
+Guan-Culbertson-2006
+DeRisi-Brown-1997
+Abbott-Pronk-2008
+Li-Klevecz-2006
+Zhang-Nielsen-2010
+Rossouw-Bauer-2008
+Kresnowati-Daran-2006
+Hughes-Friend-2000
+Roberts-Friend-2000
+Willis-Moir-2008
+de Kok-van Maris-2011
+Tauber-Giorgini-2011
+Tai-Pronk-2005
+Chua-Hughes-2006-overexpression
+Hazelwood-Dickinson-2008
+Marks-van Vuuren-2008
+Orlando-Haase-2008
+Spellman-Futcher-1998
+Gil-Viegas-2011
+Komili-Silver-2007
+Shalem-Pilpel-2008 B
+Ogawa-Brown-2000
+Alper-Stephanopoulos-2006
+Tai-Daran-2007
+Sanz-Arroyo-2012
+Gibson-Smart-2008
+Hochwagen-Amon-2005
+Shalem-Pilpel-2008 A
+Sudarsanam-Winston-2000
+Chin-Li-2012 A
+Hazelwood-Daran-2009
+Boer-Daran-2007
+Dymond-Boeke-2011
+Brauer-Botstein-2008
+Fry-Dedon-2006
+PitkSnen-Renkonen-2004
+James-May-2007
+Tu-McKnight-2005
+Staschke-Wek-2010
+Matia-Gonzßlez-Rodrfguez-Gabriel-2011
+Erlich-Samson-2008
+Snoek-Daran-2010
+Chin-Li-2012 C
+Singh-Helm-2005 C
+Urban-Loewith-2007
+Gross-Winge-2000
+Cipollina-de Winde-2008 A
+Martin-Bellis-2004
+Aghajan-Huang-2010
+Lee-Lee-2008
+Medintz-Thach-2007
+Sheehan-Hyman-2007
+Chu-Herskowitz-1998
+Aguilera-Pronk-2005
+Mitchell-Pilpel-2009
+Li-Smith-2010
+Parra-Wyrick-2006
+Boer-Pronk-2005
+Roberts-Hudson-2009
+Simons-Osbourn-2006
+Rintala-PenttilS-2009
+Gasch-Brown-2000
+Jin-Wyrick-2007
+Gonzßlez-Aguilera-Aguilera-2011
+Ronald-Kruglyak-2005
+Knijnenburg-Wessels-2007
+Azzouz-Collart-2009
+Ge-Li-2010
+Sabet-Morse-2004
+Ferea-Rosenzweig-1999
+Simmons Kovacs-Haase-2012
+Abbott-van Maris-2007
+van den Brink-de Winde-2008
+Zhu-Bulyk-2009
+Rossouw-Bauer-2009
+Chattopadhyay-Tabor-2009
+Yarragudi-Morse-2007
+Fendt-Sauer-2010
+Gasch-Brown-2001
+Zhu-Futcher-2000
+SalusjSrvi-Ruohonen-2008
+Yvert-Kruglyak-2003
+Huh-O'Shea-2003
+BIOGRID-SMALL-SCALE-STUDIES
+Tong-Boone-2004 A
+Tong-Boone-2004 B
+Schuldiner-Krogan-2005 A
+Schuldiner-Krogan-2005 B
+Pan-Boeke-2006 A
+Pan-Boeke-2006 B
+Collins-Krogan-2007 A
+Collins-Krogan-2007 B
+McClellan-Frydman-2007 A
+Lin-Boeke-2008 A
+Wilmes-Krogan-2008 A
+Wilmes-Krogan-2008 B
+Fiedler-Krogan-2009 A
+Fiedler-Krogan-2009 B
+Jonikas-Schuldiner-2009 A
+Jonikas-Schuldiner-2009 B
+Costanzo-Boone-2010 A
+Costanzo-Boone-2010 B
+Aguilar-Walther-2010
+Zheng-Krogan-2010
+Krogan-Greenblatt-2003
+Pan-Boeke-2004
+Kong-Svejstrup-2005
+Lesage-Bussey-2005
+Davierwala-Hughes-2005
+Daniel-Burke-2006
+Measday-Andrews-2005
+Schuldiner-Krogan-2005 C
+Pan-Boeke-2006 C
+Ye-Bader-2005
+Deutscher-Ruppin-2006
+Haarer-Amberg-2007
+Collins-Krogan-2007 C
+McClellan-Frydman-2007 B
+Sch÷ner-Bnhlmann-2008
+Mitchell-Baetz-2008
+Strome-Plon-2008
+Fillingham-Greenblatt-2008
+Hoke-Brandl-2008
+Logan-Lesage-2008
+Lin-Boeke-2008 B
+Addinall-Lydall-2008
+Dixon-Boone-2008
+Wilmes-Krogan-2008 C
+Kim-Gilbert-2009
+Fiedler-Krogan-2009 C
+Jonikas-Schuldiner-2009 C
+Beltrao-Krogan-2009
+Hannum-Ideker-2009
+Vizeacoumar-Andrews-2010
+Costanzo-Boone-2010 C
+Libuda-Winston-2010
+Liu-Nystr÷m-2010
+Vembar-Brodsky-2010
+Alamgir-Golshani-2010
+IREF-SMALL-SCALE-STUDIES
+Costanzo-Boone-2010-positive-interactions-intermediate
+Costanzo-Boone-2010-negative-interactions-intermediate
+Costanzo-Boone-2010-positive-interactions-full
+Costanzo-Boone-2010-negative-interactions-full
+Costanzo-Boone-2010-profile-similarity
+Lee-Marcotte-2007 Genetic interactions
+INTERPRO
+PFAM
+
