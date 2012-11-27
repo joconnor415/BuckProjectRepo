@@ -96,9 +96,10 @@
         return networks
 
     #parse through string and retreive score
-    list_of_best_individuals= []
-    list_of_best_individuals.append(best)
+    # list_of_best_individuals= []
+    # list_of_best_individuals.append(best)
 
+#source code callback function will be executed every generations
 def evolve_callback(ga_engine):
     
     #stats lists
